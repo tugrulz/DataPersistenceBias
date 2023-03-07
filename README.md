@@ -1,5 +1,5 @@
 # DataPersistenceBias
-This repository contains the data for the paper "**The Impact of Data Persistence Bias on Social Media Studies**". The datasets are the 30 datasets manually curated (``<name>.csv.bz2``), the control dataset (``control.csv.bz2``), and the trends dataset (``american_trends.csv.bz2``). For framing data, please refer to https://github.com/juliamendelsohn/framing
+This repository contains the data for the WebSci23 paper "**The Impact of Data Persistence Bias on Social Media Studies**". The datasets are the 30 datasets manually curated (``<name>.csv.bz2``), the control dataset (``control.csv.bz2``), and the trends dataset (``american_trends.csv.bz2``). For framing data, please refer to https://github.com/juliamendelsohn/framing
 
 Each dataset has the following fields:
 
@@ -15,3 +15,11 @@ Due to developer agreement, we do not share the content of the tweets, their sen
 
 Please cite our paper if you use our data.
 
+``
+@article{elmas2023impact,
+  title={The Impact of Data Persistence Bias on Social Media Studies},
+  author={Elmas, Tu{\u{g}}rulcan},
+  journal={arXiv preprint arXiv:2303.00902},
+  year={2023}
+}
+``
